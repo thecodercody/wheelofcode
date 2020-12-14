@@ -1,5 +1,1 @@
-# wheelofcode
-# wheelofcode
-# wheelofcode
-# wheelofcode
-# wheelofcode
+# Just download the CSS file and the HTML file and be sure they are in the same folder before you open the HTML file with a web browser such as Chrome, Edge, Firefox, Safari, Internet Explorer, Opera, Brave, or any Chromium build.
