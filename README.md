@@ -2,7 +2,8 @@
 
 A re-do of the animated law wheel (https://github.com/thecodercody/falun and live demo: https://thelawwheel.herokuapp.com), but using only HTML5 and CSS3 and without any image files or JavaScript.  This was done as a personal challenge to see if I could do it; I was indeed successful.
  
-[logo]
+![wheel of code falun image](https://user-images.githubusercontent.com/8681966/168319172-321317de-2fc9-4d1b-b807-931e48106e3a.png)
+
 
 # Technologies Used
 
